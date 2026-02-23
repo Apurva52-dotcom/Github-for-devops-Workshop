@@ -10,3 +10,11 @@
  git restore tetstiing.py
  git restore testiing.py
  clear
+
+ git remote -v
+ git push origin master
+ clear
+ git push origin master
+ git branch
+ clear
+ git push origin
