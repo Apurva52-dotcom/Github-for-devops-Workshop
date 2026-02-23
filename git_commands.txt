@@ -1,0 +1,12 @@
+ git init
+ git add testiinh.py
+ git add testiing.py
+ git status
+ git commit -m "added testiing"
+ git status
+ clear
+ rm testiing.py
+ git status
+ git restore tetstiing.py
+ git restore testiing.py
+ clear
