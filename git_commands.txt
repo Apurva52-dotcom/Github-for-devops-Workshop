@@ -11,6 +11,7 @@
  git restore testiing.py
  clear
 
+these is my new commands 
  git remote -v
  git push origin master
  clear
@@ -18,3 +19,5 @@
  git branch
  clear
  git push origin
+
+ 
